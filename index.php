@@ -24,11 +24,11 @@ $achievements = [
 $squad = [
     ['number' => 1, 'name' => 'Thibaut Courtois', 'position' => 'Goalkeeper'],
     ['number' => 4, 'name' => 'Éder Militão', 'position' => 'Defender'],
-    ['number' => 5, 'name' => 'Nacho', 'position' => 'Defender'],
-    ['number' => 8, 'name' => 'Toni Kroos', 'position' => 'Midfielder'],
+    ['number' => 5, 'name' => 'Ms Rasheedat', 'position' => 'Defender'],
+    ['number' => 8, 'name' => 'Femi Mastatuono', 'position' => 'Midfielder'],
     ['number' => 9, 'name' => 'Brahim Díaz', 'position' => 'Forward'],
     ['number' => 11, 'name' => 'Rodrygo', 'position' => 'Forward'],
-    ['number' => 14, 'name' => 'Karim Benzema', 'position' => 'Forward']
+    ['number' => 14, 'name' => 'Kylian Mbappe', 'position' => 'Forward']
 ];
 
 $recent_matches = [
